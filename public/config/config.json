@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x47A9a081ce09e2Ad06Bb8C2f6f999234c04c9011",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x47a9a081ce09e2ad06bb8c2f6f999234c04c9011",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BOXBOX",
+  "SYMBOL": "BOXNFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/boxbox",
+  "SHOW_BACKGROUND": true
+}
